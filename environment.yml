@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - pandas
+  - pandas>=1.5
   - jupyterlab>=3.5
   - conda-lock
 prefix: /Users/viennelee/miniforge3
