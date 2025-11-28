@@ -1,0 +1,9 @@
+name: conda-lock
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - jupyterlab>=3.5
+  - conda-lock
+prefix: /Users/viennelee/miniforge3
